@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+DataSci Student
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My lady is jealous of my vo2max
 
 ### Contact me
 
