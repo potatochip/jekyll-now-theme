@@ -7,4 +7,4 @@ We are having a bit of a monitor competition in data science class. (Although I'
 
 ![huge]({{ site.baseurl }}/images/IMG_2786.JPG)
 
-I don't quite get to enjoy it as much as I should since I'm now in class for my entire life.
+I don't quite get to enjoy it as much as I should, since I now spend my entire life in class.
