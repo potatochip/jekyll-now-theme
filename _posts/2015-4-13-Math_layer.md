@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monitor Competition
+title: Keyboard Math Layer
 ---
 
 I got tired of hunting for math symbols in the mac character viewer during the math portions of data science class, so I decided to create a math layer on my keyboard using Karabiner. So now, when I hold right-option and press 'i', I get the ∩ (intersection) character. When I press 'u', I get the ∪ (union) character. So handy!
