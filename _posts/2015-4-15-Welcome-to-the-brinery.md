@@ -12,4 +12,9 @@ Some nerdy-hilarious highlights from my module
 * Error Flag: Sour pickle!
 * List of errors: Sour pickle jar
 
+* an asterisk starts an unordered list
+* and this is another item in the list
++ or you can also use the + character
+- or the - character
+
 [Check it out here](https://github.com/potatochip/Brinery)
