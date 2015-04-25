@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-DataSci Student. I have a strict love/hate relationship with all keyboards.
+Data Scientist. I have a strict love/hate relationship with all keyboards.
 
 Visit my github at [https://github.com/potatochip](https://github.com/potatochip)
 
